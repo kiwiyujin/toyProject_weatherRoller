@@ -18,7 +18,7 @@ class WeatherRollerViewController: UIViewController {
         weatherLabel.text = randomWeather
         
         setupButton()
-        
+        print("Yujin")
         
     }
 
